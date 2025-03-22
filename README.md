@@ -22,13 +22,13 @@
 <table align="center">
       <tbody>
         <tr>
-          <td><a href="mailto:prosenjit1156@gmail.com" title="Email"><img 
+          <td><a href="mailto:prithamoni2003@gmail.com" title="Email"><img 
                 src="https://img.icons8.com/fluency/48/000000/mail.png" 
                 alt="email" title="Email"></a><br>
           </td>
-          <td><a href="https://www.facebook.com/profile.php?id=100053139540646" target="blank"><img 
+          <td><a href=https://www.facebook.com/share/1ATJMH4J6i/ target="blank"><img 
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
-               alt="https://www.facebook.com/profile.php?id=100053139540646" height="30" width="40" /></a><br>
+               alt=https://www.facebook.com/share/1ATJMH4J6i/ height="30" width="40" /></a><br>
           </td>
           <td><a href="https://t.me/prosenjit_mondol" title="Telegram" target="_blank"><img 
                  src="https://img.icons8.com/fluency/48/null/telegram-app.png" 
