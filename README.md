@@ -50,11 +50,11 @@
 ---
 <h1 style="margin-top: 0px" align="center">
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pronad1&theme=default)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pronad1&theme=default&utcOffset=6)
-  ![](https://github-readme-stats.vercel.app/api/top-langs?username=pronad1&show_icons=true&locale=en&layout=compact)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prithamoni&theme=default)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prithamoni&theme=default&utcOffset=6)
+  ![](https://github-readme-stats.vercel.app/api/top-langs?username=prithamoni&show_icons=true&locale=en&layout=compact)
   
   
-  <a href="https://github.com/pronad1/"><img src="https://komarev.com/ghpvc/?username=provomito" alt="visitors" /></a>
+  <a href="https://github.com/prithamoni"><img src="https://komarev.com/ghpvc/?username=prithamoni" alt="visitors" /></a>
   
 </h1>
