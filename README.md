@@ -30,7 +30,7 @@
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
                alt=https://www.facebook.com/share/1ATJMH4J6i/ height="30" width="40" /></a><br>
           </td>
-          <td><a href="https://t.me/prosenjit_mondol" title="Telegram" target="_blank"><img 
+          <td><a href="https://t.me/t.me/Priiitha" title="Telegram" target="_blank"><img 
                  src="https://img.icons8.com/fluency/48/null/telegram-app.png" 
                  alt="telegram" title="Telegram"></a></a><br>
           </td>
