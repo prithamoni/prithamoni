@@ -11,7 +11,6 @@
 <b>
   
   - 🩷 I like open-source projects
-  - 🌱 Interested about resume? [Click here](https://github.com/pronad1/CV/blob/main/CV-WORD.pdf).
   - 🗨️ Feel free to text me
     
 </b>
